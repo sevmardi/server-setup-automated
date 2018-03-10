@@ -20,3 +20,6 @@ sudo add-apt-repository ppa:ondrej/php
 
 #Update the repositories
 sudo apt-get update
+
+
+
